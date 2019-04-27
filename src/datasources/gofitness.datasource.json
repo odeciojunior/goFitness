@@ -1,0 +1,6 @@
+{
+  "name": "gofitness",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/db.json"
+}
